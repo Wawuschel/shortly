@@ -1,13 +1,13 @@
 <!ENTITY agbshorturl.shorlty "Shortly">
-<!ENTITY agbshorturl.shorlty.tooltip "Klicke zum Verkürzen des URL">
-<!ENTITY agbshorturl.shorlty.contextmenu.page "Verkürze Webseiten-URL">
-<!ENTITY agbshorturl.shorlty.contextmenu.image "Verkürze Bild-URL">
-<!ENTITY agbshorturl.shorlty.contextmenu.link "Verkürze Link-URL">
-<!ENTITY agbshorturl.shorlty.options.title "Shortly Einstellungen">
-<!ENTITY agbshorturl.shorlty.options.display "Darstellungsoptionen:">
-<!ENTITY agbshorturl.shorlty.options.addonbar.label "Add-on-Leiste">
-<!ENTITY agbshorturl.shorlty.options.urlbox.label "Adresszeile">
-<!ENTITY agbshorturl.shorlty.options.contextmenu.label "Kontextmenü (Rechtsklickmenü)">
-<!ENTITY agbshorturl.shorlty.options.clipboard.label "Kopiere in Zwischenablage">
-<!ENTITY agbshorturl.shorlty.options.accesskey.label "Aktiviere Tastenkürzel">
-<!ENTITY agbshorturl.shorlty.options.accesskey.combo "Tastenkombination">
+<!ENTITY agbshorturl.shorlty.tooltip "Hier klicken um eine Kurz-URL dieser Webseite zu erstellen">
+<!ENTITY agbshorturl.shorlty.contextmenu.page "Kurz-URL für diese Webseite erstellen">
+<!ENTITY agbshorturl.shorlty.contextmenu.image "Kurz-URL für diese Grafik erstellen">
+<!ENTITY agbshorturl.shorlty.contextmenu.link "Kurz-URL für diesen Link erstellen">
+<!ENTITY agbshorturl.shorlty.options.title "Shortly - Einstellungen">
+<!ENTITY agbshorturl.shorlty.options.display "Shortly anzeigen…">
+<!ENTITY agbshorturl.shorlty.options.addonbar.label "in der Add-on-Leiste">
+<!ENTITY agbshorturl.shorlty.options.urlbox.label "in der Adressleiste">
+<!ENTITY agbshorturl.shorlty.options.contextmenu.label "im Kontektmenü">
+<!ENTITY agbshorturl.shorlty.options.clipboard.label "In die Zwischenablage kopieren">
+<!ENTITY agbshorturl.shorlty.options.accesskey.label "Tastaturkürzel aktivieren">
+<!ENTITY agbshorturl.shorlty.options.accesskey.combo "Tastaturkürzel">
